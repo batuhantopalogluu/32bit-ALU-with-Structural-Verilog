@@ -1,0 +1,96 @@
+Restore Archived Project report for batuhan_151044026
+Thu Dec 20 01:01:32 2018
+Quartus II 32-bit Version 13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Thu Dec 20 01:01:32 2018 ;
+; Revision Name                   ; batuhan_151044026                     ;
+; Top-level Entity Name           ; alu32                                 ;
+; Family                          ; Cyclone IV GX                         ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/Users/batuhan/Desktop/org2/151044026 (6)/151044026/151044026.qar' into the 'C:\\Users\\batuhan\\Desktop\\org2\\alu32bit/' directory
+Info: Generated report 'batuhan_151044026.restore.rpt'
+Info (23030): Evaluation of Tcl script d:/altera/13.1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus II 32-bit Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 274 megabytes
+    Info: Processing ended: Thu Dec 20 01:01:32 2018
+    Info: Elapsed time: 00:00:02
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++--------------------------------------------------------------+
+; Files Restored                                               ;
++--------------------------------------------------------------+
+; File Name                                                    ;
++--------------------------------------------------------------+
+; batuhan_151044026.qpf                                        ;
+; batuhan_151044026.qsf                                        ;
+; db/batuhan_151044026.db_info                                 ;
+; incremental_db/compiled_partitions/batuhan_151044026.db_info ;
+; workplace/_2_1_mux.v                                         ;
+; workplace/_32_bit_and.v                                      ;
+; workplace/_32_bit_mux.v                                      ;
+; workplace/_32_bit_nor.v                                      ;
+; workplace/_32_bit_or.v                                       ;
+; workplace/_32_bit_shift_left.v                               ;
+; workplace/_32_bit_shift_right.v                              ;
+; workplace/_32_bit_xor.v                                      ;
+; workplace/_32bit_Adder.v                                     ;
+; workplace/_32bit_Sub.v                                       ;
+; workplace/_4_1_mux.v                                         ;
+; workplace/_4bit_adder.v                                      ;
+; workplace/_8_1_V2_mux.v                                      ;
+; workplace/_8_1_mux.v                                         ;
+; workplace/_alu_testbench.v                                   ;
+; workplace/alu32.v                                            ;
+; workplace/full_adder.v                                       ;
+; workplace/half_adder.v                                       ;
+; assignment_defaults.qdf                                      ;
++--------------------------------------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+
